@@ -24,6 +24,15 @@ I'm Hounliho Jaurex Samson, a student at Brigham Young University-Idaho, a passi
 - Skills: Responsive Design, API Integration, Debugging.
 
 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
 
 ## Projects and Work
 
@@ -48,7 +57,7 @@ A dynamic website where users can browse and review books and movies.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] www.linkedin.com/in/hounliho-jaurex-samson  profile
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() www.linkedin.com/in/hounliho-jaurex-samson  profile
+
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
