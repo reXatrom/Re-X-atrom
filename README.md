@@ -49,5 +49,6 @@ A dynamic website where users can browse and review books and movies.
 ## Let's Connect!
 
 - Here is my [LinkedIn] www.linkedin.com/in/hounliho-jaurex-samson  profile
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
